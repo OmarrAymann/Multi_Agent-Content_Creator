@@ -211,6 +211,4 @@ Edit agent roles in `agents.py` to change their expertise and focus.
 - **ReportLab** - For professional PDF generation
 - **Meta** - For the Llama models
 
-## 📧 Contact
 
- - [@OmarAymann](https://github.com/OmarrAymann)
