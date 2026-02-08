@@ -1,0 +1,7 @@
+streamlit
+crewai
+python-dotenv
+langchain-ollama
+langchain-community
+litellm
+reportlab
