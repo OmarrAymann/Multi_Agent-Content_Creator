@@ -214,6 +214,6 @@ if st.session_state.result:
 st.markdown("---")
 st.markdown("""
 <div style='text-align: center; color: #666; padding: 20px;'>
-    <p>Powered by AI Content Calendar | <a href="https://github.com/OmarrAymann" style="color: #667eea; text-decoration: none;">@3lis0</a></p>
+    <p>Powered by AI Content Calendar | <a href="https://github.com/OmarrAymann" style="color: #667eea; text-decoration: none;">@OmarAymann</a></p>
 </div>
 """, unsafe_allow_html=True)
